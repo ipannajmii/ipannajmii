@@ -45,6 +45,7 @@ REGISSION is a vision-based Smart IoT chessboard that detects physical chess mov
 
 - **Advanced Python-Based Digital Forensic Log Analysis Tool** - log parsing, suspicious activity identification and event timeline analysis
 - **Smart IoT Blind Stick** - obstacle detection and real-time user alerts using IoT sensors and microcontroller concepts
+- **Real-Time Computer Vision with MediaPipe: Face & Hand Tracking** - a real-time computer vision application with webcam-based face detection and hand tracking with 21 hand landmarks.
 
 ## 🎓 Education
 
