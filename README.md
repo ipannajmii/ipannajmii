@@ -6,6 +6,8 @@ I am a Bachelor of Computer Science (Hons.) Data Communication and Networking gr
 
 My interests include **networking, IT support, cybersecurity, IoT, computer vision, system administration and web development**.
 
+🌐 [View my interactive portfolio](https://ipannajmii.github.io/portfolio/)
+
 ## 🏆 Highlight
 
 **Best Project Award - UiTM C2PI Final Year Project Exhibition (2026)**
