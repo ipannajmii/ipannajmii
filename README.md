@@ -78,5 +78,6 @@ CGPA: **3.57**
 
 ## 📫 Connect With Me
 
+- LinkedIn: [Irfan Nazmi Bin Mohd Salikhin](https://www.linkedin.com/in/irfan-nazmi-bin-mohd-salikhin-478486392/)
 - GitHub: https://github.com/ipannajmii
-- Email: nazmiirfan50@gmail.com
+- Email: [nazmiirfan50@gmail.com](mailto:nazmiirfan50@gmail.com)
